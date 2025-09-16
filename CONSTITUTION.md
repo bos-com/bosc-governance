@@ -8,7 +8,7 @@ The Bugema Open Source Community (BOSC) is a student- and faculty-driven initiat
 
 ### 2.1 The Benevolent Dictator for Life (BDFL)
 
-**Current BDFL: Muwanga Kosea**
+**Current BDFL: Muwanga Erasto Kosea**
 
 - Acts as the visionary and steward of BOSC.
 - Has final decision-making authority on technical, organizational, and governance matters.
